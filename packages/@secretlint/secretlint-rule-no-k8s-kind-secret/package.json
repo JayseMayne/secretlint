@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@secretlint/types": "^5.2.0",
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.1"
   },
   "devDependencies": {
     "@secretlint/tester": "^5.2.0",
